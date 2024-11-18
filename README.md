@@ -1,28 +1,29 @@
-Tello_Project
+Tello Project:
 
-A place where I'm storing all the code I used and created during the process of learning this type of technology.
+A repository where I store the code I created and used while exploring drone technology.
 
-DESCRIPTION:
+Description:
 
-This is a summer project I started working on in 2024. The main objective of this project was to learn more about drones and how to code with them.
-I wanted to explore tracking software and its applications for a project like this.
+This is a summer project I started working on in 2024. The main objective was to learn more about drones and their programming. I focused on understanding tracking software and its applications in real-world scenarios.
 
-USAGE INSTRUCTIONS:
+Usage Instructions:
 
-To use my code, you only need a Python compiler and a Tello drone. I recommend downloading the Tello app first to get the drone working.
-Also, download Haar cascades from opencv,This is the tracking software I used.
+Ensure you have a Python compiler installed on your system.
+Obtain a Tello drone.
+I recommend downloading the official Tello app to get the drone set up.
+Download the Haar cascades for object tracking from OpenCV:
+    https://github.com/opencv/opencv/tree/master/data/haarcascades.
 
-    https://github.com/opencv/opencv/tree/master/data/haarcascades. 
+Features and Technology Stack:
+    
+Tracking Software: Haar cascades (provided by OpenCV).
 
-FEATURES AND TECHNOLOGY STACK:
+Drone Control Library: djitellopy, used to interface with the Tello drone and implement custom commands.
 
-I used OPENCV harrcascades tracking softwar.
-Libaries that I used djitellopy to get the Tello drone to work.
-
-AUTHOR INFORMATION:
+Author Information:
 
 Jake Madtson
-https://www.linkedin.com/feed/ 
+www.linkedin.com/in/jakemadtson
 
 
 
